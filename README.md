@@ -1,2 +1,3 @@
 # python_class
-Python Projects for Wellesley's Chinese Summer School.
+Python for Wellesley's Chinese Summer School.
+Includes: practice, projects, and games!
