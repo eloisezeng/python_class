@@ -1,0 +1,72 @@
+Conditionals
+
+Comparing Numbers (integers and floats)
+< 		less than
+<= 		less than or equal to
+> 		greater than
+>= 		greater than or equal to
+== 		is equal to
+!= 		is not equal to
+is 		is identical to
+is not 		is not identical to
+
+Comparing Booleans
+== 		is equal to
+!= 		is not equal to
+is 		is identical to
+is not 		is not identical to
+
+Comparing Strings
+== 		is equal to
+!= 		is not equal to
+is 		is identical to
+is not 		is not identical to
+
+Boolean Logical Operators
+not
+not True → False
+not False → True
+and
+True and True → True
+True and False → False
+False and True → False
+False and False → False
+or
+True or True → True
+True or False → True
+False or True → True
+False or False → False 
+
+Boolean Order of Operations
+()
+not
+<, <=, >, >=, ==, !=, is, is not, math operations
+and
+or
+
+Conditional Statements
+if, elif, else
+
+Example 1:
+if <condition>:
+	print( … )
+
+Example 2:
+if <condition>:
+	print( … )
+else:
+	print( … )
+
+Example 3:
+if <condition>:
+	print( … )
+elif:
+	print( … )
+
+Example 4:
+if <condition>:
+	print( … )
+elif:
+	print( … )
+else:
+	print( … )
