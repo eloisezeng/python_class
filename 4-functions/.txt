@@ -1,0 +1,46 @@
+Functions
+
+Defining a Function
+def function_name()
+print( “Hello World!” )
+
+Calling a Function
+function_name() => “Hello World!”
+    
+
+
+
+Return Statement => Saving the Return
+def get_name() => class = get_name()
+    return “RACECAR” => print(class) => → 	“RACECAR”
+
+
+
+Arguments
+def greet(name)
+    print(“Hello “ + name)
+
+greet(“Daniel!”) => → 	“Hello Daniel”
+greet(“Dan”) => → 	“Hello Dan”
+
+
+
+Multiple Arguments
+def greet(name1, name2)
+	print(“Hello ” + name1 + “ and ” + name2)
+
+greet(“Daniel”, “Dan”) => “Hello Daniel and Dan”
+greet(“Alex”, “Wendy”) => “Hello Alex and Wendy”
+greet(“Nishanth”, “Sabina”) => “Hello Nishanth and Sabina”
+
+
+
+Calling a Function from a Function
+def square(num):
+	return num*num
+
+def sum_of_squares(x, y, z):
+	return square(x) + square(y) + square(z)
+
+print( sum_of_squares(1, 2, 3) )	→ 	10
+print( sum_of_squares(2, 4, 6) )	→ 	56
