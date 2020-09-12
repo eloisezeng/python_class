@@ -1,4 +1,4 @@
-# Python for Wellesley's Chinese Language School.
+# Python for Wellesley Chinese Language School.
 
 Includes: practice, projects, and games!
 ### Post on the Piazza if you have a question.
